@@ -1,0 +1,14 @@
+#exampleInputEmail1,#exampleInputPassword1{
+    width:50%;
+    /* margin-left: 10px; */
+}
+/* input:invalid {
+    box-shadow: 0 0 5px 1px red;
+  }
+  
+  input:focus:invalid {
+    box-shadow: none;
+  } */
+h1{
+  color: blue;
+}
